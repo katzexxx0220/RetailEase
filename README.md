@@ -1,4 +1,4 @@
-<img width="379" height="837" alt="image" src="https://github.com/user-attachments/assets/ac4fed9b-17ab-4ad9-8b84-162e16c08b71" />RetailEase is a smart solution designed to simplify inventory and sales management for retail startups. With real-time insights and automated processes, RetailEase helps businesses make smarter, faster, and data driven decisions.
+RetailEase is a smart solution designed to simplify inventory and sales management for retail startups. With real-time insights and automated processes, RetailEase helps businesses make smarter, faster, and data driven decisions.
 
 In this project, I was responsible for the **Branch Management** and **Big Data Analysis** modules. 
 The branch management function allows adding new branches with details such as name, address, and contact number, viewing all added branches, and deleting branches when needed. 
